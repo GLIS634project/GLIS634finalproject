@@ -25,8 +25,6 @@ height: auto;
 
 .topnav {
   list-style-type: none;
-    position: relative;
-    top:0;
     background-color: #145a73;
     color: #475464;
 }
